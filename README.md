@@ -26,6 +26,7 @@ Naglowek 1 | Naglowek 2
 -----------| ----------
 komorka 1 | komorka 2
 komorka 3 | komorka 4
+komorka 5 | komorka 6
 
 ## Obrazy i tekst alternatywny
 ![Spongebob Kanciastoporty](https://img.huffingtonpost.com/asset/562a91761900002d00b94c88.jpeg?ops=scalefit_720_noupscale)
