@@ -9,6 +9,9 @@
 ### Lista numerowana
 1. Punkt 1
 1. Punkt 2
+1. Punkt 3
+  1. Zagniezdzony 1
+  1. Zagniezdzony 2
 
 ## Pogrubienie i kursywa
 **To zdanie jest bold.**
@@ -23,6 +26,8 @@ Naglowek 1 | Naglowek 2
 -----------| ----------
 komorka 1 | komorka 2
 komorka 3 | komorka 4
+
+## Inne
 
 ~~nie~~
 :smiley:
